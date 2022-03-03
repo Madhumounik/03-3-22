@@ -1,0 +1,4 @@
+tuple1=('m','a','d','h','u')
+tuple2=('m','o','u','n','i','k')
+tuple3=tuple1+tuple2
+print(tuple3)
